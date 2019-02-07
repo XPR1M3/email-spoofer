@@ -1,6 +1,6 @@
 # email-spoofer
 
-This tool is made for educational purpos only.We will not responsible for any kind of illigal activities.
+This tool is made for educational purpose only.We will not responsible for any kind of illegal activities.
 
 # How_To_use==>
 Download it and paste it on your web server.
